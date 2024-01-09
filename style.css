@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 600px;
+  padding: 20px;
+  margin: auto;
+  background-color: rgb(208, 233, 255);
+  border-radius: 10px;
+}
+
+.title{
+  width: 100%;
+  color: blue;
+  text-align: center;
+}
